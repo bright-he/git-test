@@ -6,7 +6,7 @@ public class Test {
 
     private int number;
 
-    public static int version = 1.0;
+    public static int version = 2.0;
 
     public Test() {
 
