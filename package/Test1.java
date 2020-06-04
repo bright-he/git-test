@@ -6,8 +6,8 @@ public class Test1 {
 
     private int number;
 
+    // 现在版本号是4
     public static int version = 4;
-
 
     public Test() {
 
