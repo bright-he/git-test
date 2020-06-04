@@ -6,7 +6,7 @@ public class Test {
 
     private int number;
 
-    public static int version = 2;
+    public static int version = 3;
 
     public Test() {
 
@@ -14,6 +14,10 @@ public class Test {
 
     public Test(String str) {
         System.out.println(str);
+    }
+
+    public Test(int number) {
+	this.number = number;
     }
 
 }
