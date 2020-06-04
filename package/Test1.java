@@ -8,6 +8,7 @@ public class Test1 {
 
     public static int version = 4;
 
+
     public Test() {
 
     }
